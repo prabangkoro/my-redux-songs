@@ -1,3 +1,7 @@
+# React Redux Simple Project
+
+Integrating React with Redux, lesson from Udemy Courses
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
